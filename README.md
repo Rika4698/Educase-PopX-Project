@@ -1,7 +1,7 @@
 # Educase Project Assignment
 
 ## Deployment URL
-**Live link:** https://educase-pop-x-project.vercel.app/
+**Live link:** https://educase-popx-project.vercel.app/
 
 
 ## Project Overview:

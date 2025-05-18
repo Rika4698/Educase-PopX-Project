@@ -5,11 +5,14 @@ import Home from './Pages/Home';
 import Registration from './Pages/Registration';
 import Login from './Pages/Login';
 import UserProfile from './Pages/UserProfile';
+import ScrollToTop from './Components/ScrollToTop';
 function App() {
 
 
   return (
+
     <div className='min-h-screen flex justify-center items-center gap-2'>
+      <ScrollToTop></ScrollToTop>
       <Routes>
         <Route path='/' element={<Home />}></Route>
         <Route path='/registration' element={<Registration />}></Route>
@@ -18,6 +21,7 @@ function App() {
 
       </Routes>
     </div>
+
   )
 }
 
