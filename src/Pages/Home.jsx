@@ -3,7 +3,7 @@ import { Link } from 'react-router';
 
 const Home = () => {
     return (
-        <div className='bg-[#F7F8F9] w-[375px] h-[800px] border-2 border-gray-200 flex flex-col justify-end'>
+        <div className='bg-[#F7F8F9] w-[375px] h-[730px] border-2 border-gray-200 flex flex-col justify-end'>
             <div >
                 <h1 className='font-medium text-[28px] text-[#1D2226] leading-[17px] text-left ml-[20px] w-[231px] h-[33px]  '>Welcome to PopX</h1>
                 <p className='text-left font-normal opacity-60 leading-[26px] text-[#1D2226] mt-[10px]  ml-[20px] w-[232px] h-[48px] text-[18px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
